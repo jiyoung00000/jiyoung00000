@@ -1,12 +1,15 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=e5c9b9&height=150&section=header&text=jiyoung00000&fontColor=003153&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0067C0&height=150&section=header&text=jiyoung00000&fontColor=f7f7f7&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-
-  ####  :wave: Welcome my github profile ! :chocolate_bar:
+####  :wave: Welcome my github profile !
   
- <br/>
+  <br/>
+
+#### 🍫 MY TECK STACK 🍫 
+
+  <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -22,9 +25,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-<br/>
-<br/>
-<br/>
+  <br/>
+  <br/>
+  <br/>
  
 #### :pencil2: Study log
  
