@@ -29,9 +29,6 @@
 #### :pencil2: Study log
  
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@jiyoung00000)
-</div>
-
 
 <!--
 **jiyoung00000/jiyoung00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
