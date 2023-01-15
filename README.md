@@ -4,7 +4,7 @@
 
 
 
-  ####  :wave: Welcome 'jiyoung00000' github profile !
+  ####  :wave: Welcome my github profile ! :chocolate_bar:
   
  <br/>
 
@@ -28,7 +28,9 @@
  
 #### :pencil2: Study log
  
-
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@jiyoung00000)
+</div>
 
 
 <!--
